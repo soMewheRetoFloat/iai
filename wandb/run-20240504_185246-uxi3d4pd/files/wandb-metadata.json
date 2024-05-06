@@ -1,0 +1,52 @@
+{
+    "os": "Windows-10-10.0.22631-SP0",
+    "python": "3.10.12",
+    "heartbeatAt": "2024-05-04T10:52:49.167289",
+    "startedAt": "2024-05-04T10:52:46.348157",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "-n",
+        "MLP",
+        "-l",
+        "3e-4"
+    ],
+    "state": "running",
+    "program": "D:\\involuntary\\works\\classes\\Introduction of AI\\labs\\lab2\\run.py",
+    "codePathLocal": "run.py",
+    "codePath": "run.py",
+    "host": "Fl0at9973",
+    "username": "Fl0at9973",
+    "executable": "C:\\Users\\Public\\ANACONDA\\envs\\mach\\python.exe",
+    "cpu_count": 14,
+    "cpu_count_logical": 20,
+    "cpu_freq": {
+        "current": 2300.0,
+        "min": 0.0,
+        "max": 2300.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2300.0,
+            "min": 0.0,
+            "max": 2300.0
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 915.0499992370605,
+            "used": 433.91445541381836
+        }
+    },
+    "gpu": "NVIDIA GeForce RTX 3070 Ti Laptop GPU",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 3070 Ti Laptop GPU",
+            "memory_total": 8589934592
+        }
+    ],
+    "memory": {
+        "total": 31.692127227783203
+    }
+}
