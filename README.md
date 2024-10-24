@@ -1,1 +1,8 @@
-也没啥 就是三坨神经网络
+# Neural Network EXP for IAI course
+
+## Network contained
++ TextCNN
++ MLP
++ LSTM
+
+see the report in rp.pdf
